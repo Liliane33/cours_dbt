@@ -1,0 +1,10 @@
+.venv/
+logs/
+formation_db/logs/
+formation_db/target/
+formation_db/dbt_packages/
+formation_db/output/
+*.db
+*.duckdb
+*.parquet
+.user.yml
